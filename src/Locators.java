@@ -36,6 +36,12 @@ public class Locators {
 		Thread.sleep(3000);
 		driver.close();
 		//comments are changed
+		
+		
+	}
+	public void gitMethod() {
+		System.out.println("test from develop branch");
+		
 	}
 
 }
