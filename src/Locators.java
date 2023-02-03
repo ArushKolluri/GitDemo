@@ -35,7 +35,7 @@ public class Locators {
 		
 		Thread.sleep(3000);
 		driver.close();
-		//test text for git changes
+		//comments are changed
 	}
 
 }
